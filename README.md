@@ -9,3 +9,5 @@ Este cambio fue agregado para hacer uso de gitHub Desktop
 Este cambio es realizado desde vs code
 
 Cambio realizado desde vs code Y extensión.
+
+Cambio vs code
